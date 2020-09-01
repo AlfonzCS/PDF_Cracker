@@ -3,5 +3,5 @@
 ## Requeriment:
 
 ```
-pip3 install pikepdf tqdm
+pip3 install -r requeriment.txt
 ```
