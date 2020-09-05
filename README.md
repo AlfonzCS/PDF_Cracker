@@ -1,4 +1,4 @@
-# pdfcrack
+# PDF_Cracker
 
 ## Requeriment:
 
