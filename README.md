@@ -23,6 +23,6 @@ python3 pdf_cracker.py [pdf] [wordlist]
 
          Autor -#- AlfonzMx Script de cracking PDF 100% efectivo "Uso Personal"
 
-  Crack PDF:  19%|████████████?                                                  | 7/37 [00:04<00:21,  1.42it/s]
+  Crack PDF:  19%|████████████?                                             | 7/37 [00:04<00:21,  1.42it/s]
   Password found: 31581334
 ```
